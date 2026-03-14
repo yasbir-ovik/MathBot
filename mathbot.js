@@ -5,7 +5,7 @@ const fortune3 = "Be cautious of your new neighbors.";
 const fortune4 = "You will find a new hobby soon.";
 const fortune5 = "It would be wise to avoid the color red today.";
 
-let randomNumber = Math.floor(Math.random()*(5-1+1))+1 ;
+let randomNumber = Math.floor(Math.random() * (5 - 1 + 1)) + 1;
 console.log(randomNumber);
 let selectedFortune;
 
